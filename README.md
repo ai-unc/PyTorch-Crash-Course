@@ -14,3 +14,6 @@ Completed Notebook Link: https://colab.research.google.com/drive/1UiOvhVxCnyZ7oo
 Uncompleted Notebook:
 
 Completed Notebook: https://colab.research.google.com/drive/1rtM6zGyJUx4ce_1a1jpkLUSJhCMGgi04?usp=sharing
+
+### Slides
+Link: https://docs.google.com/presentation/d/1Tyj4AexR0YjIKCKZwUQLMvRdDGLksjlUUldHW6-ukyQ/edit?usp=sharing
